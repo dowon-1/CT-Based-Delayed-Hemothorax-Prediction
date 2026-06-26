@@ -1,0 +1,13 @@
+numpy
+pandas
+h5py
+pydicom
+SimpleITK
+Pillow
+tqdm
+matplotlib
+scikit-learn
+torch
+torchvision
+tensorboard
+TotalSegmentator

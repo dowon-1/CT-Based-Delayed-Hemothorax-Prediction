@@ -1,0 +1,2 @@
+id,Year,CaseFolder,ChestDir,SeriesInstanceUID,FileStart,FileEnd,FileCount,OrientationLabel,ZSpacingActualMedian,SliceThicknessMedian,CoverageApproxWithThicknessMM
+10016020,2019,10016020-2019-06-04,/path/to/Chest,1.2.3.4,start.dcm,end.dcm,140,Axial,2.5,2.5,350.0

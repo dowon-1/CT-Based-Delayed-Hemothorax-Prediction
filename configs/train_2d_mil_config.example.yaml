@@ -1,0 +1,13 @@
+csv_path: /path/to/h5_index.csv
+checkpoint_dir: /path/to/checkpoints
+log_dir: /path/to/logs
+h5_image_key: window_lung
+target_hw: [224, 224]
+bag_batch_size: 2
+use_sync_batchnorm: true
+use_dataset_zscore: true
+use_upsampling: true
+training:
+  lr_backbone: 0.00001
+  lr_head: 0.0001
+  early_stop_patience: 10

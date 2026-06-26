@@ -1,0 +1,57 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.ipynb_checkpoints/
+
+# Virtual environments
+.env
+.venv/
+venv/
+env/
+conda/
+
+# Clinical data / images
+DICOM/
+dicom/
+data/
+dataset/
+datasets/
+*.dcm
+*.nii
+*.nii.gz
+*.nrrd
+*.mha
+*.mhd
+*.h5
+*.hdf5
+
+# Model files
+checkpoints/
+weights/
+models/
+*.pth
+*.pt
+*.ckpt
+*.pkl
+
+# Outputs
+outputs/
+results/
+runs/
+logs/
+tensorboard/
+qc_png/
+_tmp_totalseg/
+*.log
+*.jsonl
+
+# Private tables
+*.csv
+!sample/*.csv
+*.xlsx
+*.xls
+
+# OS
+.DS_Store
+Thumbs.db

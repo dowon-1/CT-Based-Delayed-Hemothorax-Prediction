@@ -1,0 +1,13 @@
+dataset_root: /path/to/dataset
+input_csv: /path/to/dicom_series_geometry_qc_result.csv
+output_root: /path/to/output/dicom_to_h5_lung_rib
+clinical_data_included: false
+segmentation:
+  tool: TotalSegmentator
+  target_labels:
+    - lung
+    - ribs
+preprocessing:
+  target_z_spacing: 2.5
+  crop_margin_mm: 5
+  hu_storage_min: -1024

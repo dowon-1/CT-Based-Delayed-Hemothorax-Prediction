@@ -1,0 +1,4 @@
+id,path,label,split
+10016020,/path/to/lung_crop/10016020.h5,0,train
+10016234,/path/to/lung_crop/10016234.h5,1,val
+10017345,/path/to/lung_crop/10017345.h5,0,test
