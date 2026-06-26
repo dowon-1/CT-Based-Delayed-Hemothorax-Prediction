@@ -377,8 +377,4 @@ Not included yet:
 
 ---
 
-## Disclaimer
 
-This repository is for research and project documentation purposes only. It is not a clinical decision-support system and should not be used for real-world medical decision-making.
-
-All clinical data must be handled according to institutional review board, privacy, and data security policies.
