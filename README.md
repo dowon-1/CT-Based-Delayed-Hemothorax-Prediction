@@ -1,6 +1,5 @@
 # CT-Based Prediction of Delayed Hemothorax after Rib Fracture
 
-![Version](https://img.shields.io/badge/version-v1.0.0-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Project Status](https://img.shields.io/badge/status-under%20development-yellow)
 ![Python](https://img.shields.io/badge/python-3.8%2B-blue)
